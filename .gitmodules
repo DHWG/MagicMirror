@@ -1,3 +1,6 @@
 [submodule "modules/mvg"]
 	path = modules/mvg
 	url = git@github.com:DHWG/magicmirror-module-mvg.git
+[submodule "modules/redis-subscriber"]
+	path = modules/redis-subscriber
+	url = git@github.com:DHWG/magicmirror-module-redis-subscriber.git
